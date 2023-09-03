@@ -12,6 +12,10 @@ A circuit and program that has different modes and a pause button. [Pomodoro tec
 
 ## What I learned
 
+0.1 c'est quoi git en vrais
+0.2 commznt le mettre sur win et ubuntu (je vais changer c'est nul)
+0.3 mise a jour up et down
+
 1. How to take input using a push button.
 2. How to display and wire an LCD module.
 3. How to make a rudimentary timer using delay().
