@@ -1,4 +1,4 @@
-# Pomodoro V1 pur test pour apprendre des triuc
+# Pomodoro V1 pour tester et apprendre des trucs
 une heu par ci une heure par la (lol) se relire ? nan !
 aussi : A circuit and program that has different modes and a pause button. [Pomodoro technique.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
