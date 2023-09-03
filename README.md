@@ -1,4 +1,4 @@
-# Pomodoro-Timer-Arduino
+# Pomodoro V1
 A circuit and program that has different modes and a pause button. [Pomodoro technique.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
 ## Function
