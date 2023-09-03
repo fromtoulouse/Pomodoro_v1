@@ -1,6 +1,11 @@
 # Pomodoro V1 pour tester et apprendre des trucs
-une heu par ci une heure par la (lol) se relire ? nan !
-aussi : A circuit and program that has different modes and a pause button. [Pomodoro technique.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+une heure par tous les dimanches
+aussi 3 tuto pour comprandre
+1 A circuit and program that has different modes and a pause button. [Pomodoro technique.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+2 un autre git
+3 un tuto sur instructable
+4 la doc générale arduino pour trouver comment connecter l'ecran sans potard... (le plus dur c'est pas bien explique a mon gout)
+
 
 ## Function
 
@@ -16,7 +21,8 @@ aussi : A circuit and program that has different modes and a pause button. [Pomo
 
 ## What I learned
 
-0.1 c'est quoi git en vrais
+0.1 c'est quoi git en vrais (sous unbuntu nul, sous win c'est mal mais ca marche mieux)
+
 0.2 commznt le mettre sur win et ubuntu (je vais changer c'est nul)
 0.3 mise a jour up et down
 
