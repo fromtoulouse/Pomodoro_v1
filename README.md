@@ -1,18 +1,18 @@
-# Pomodoro V1.bis pour tester et apprendre des trucs
-une heure par tous les dimanches
-aussi 3 tuto pour comprandre
-1 A circuit and program that has different modes and a pause button. [Pomodoro technique.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+# Pomodoro V0.1.bis pour tester et apprendre en faisant : Arduino
+une heure ou deux par semaine (la nuit ca déconte ?).
+inspiré de 3 tuto pour comprandre
+1 la base : circuit and program that has different modes and a pause button. [Pomodoro technique.](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 2 un autre git
 3 un tuto sur instructable
 4 la doc générale arduino pour trouver comment connecter l'ecran sans potard... (le plus dur c'est pas bien explique a mon gout)
-
-
+(manque les liens ca viends)
+5min par ci par la pour noté ces idées "brut"
 ## Function
 
 1. A timer that displays how many seconds you have left.
-2. Study timer: 25 mins
-(avec un joli txt c'est mieux "arduino suck! par exemple...)
-3. Short break timer: 5 mins
+2. au travail : 20 mins
+(avec un joli txt c'est mieux "arduino suck! par exemple c'est plus realiste et motivan ? non mais c'est vraiment con arduino ! (paradoxe ?...)
+3. un moment pour reflechir a ce qui viend d'erte fait et sur les 25 min qui viennent ('est pas un break) de 5 mins
 (fo arreter de regarder l'ecran, on bosse ! mais ou est le bip? on entand rien !)
 4. Long break timer: 10 mins
 (pareil pas de bip audible ?)
