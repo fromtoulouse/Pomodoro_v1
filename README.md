@@ -31,7 +31,5 @@ a ajjouter : pause the timer and then resume it with the same button. (ca a pa l
 ## Notes
 
 
-## Images
-
-![Diagram original](https://i.ibb.co/XbHFDQ2/pomodoro-diagram.png)
+## Images (voir ref)
 
